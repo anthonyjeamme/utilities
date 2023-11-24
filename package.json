@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "lib-workspace",
   "private": true,
   "scripts": {
     "build": "turbo build",

@@ -5,3 +5,5 @@ tsconfig.json
 package-lock.json
 yarn.lock
 .github
+.turbo
+.eslintrc.js

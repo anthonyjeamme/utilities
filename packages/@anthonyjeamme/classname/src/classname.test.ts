@@ -23,7 +23,7 @@ describe("classNameModule", () => {
 
     const result = className("component", { active: true, type: "user" });
     expect(result.className).toBe(
-      "component__hashed active__hashed type-user__hashed"
+      "component__hashed active__hashed type-user__hashed",
     );
   });
 

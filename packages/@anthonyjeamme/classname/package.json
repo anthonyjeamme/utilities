@@ -12,7 +12,6 @@
   "types": "dist/classname.d.ts",
   "scripts": {
     "build": "tsup src/classname.ts --format cjs,esm --dts",
-    "publish-package": "echo DOIT PUBLISH",
     "test": "jest",
     "lint": "eslint . --max-warnings 0"
   },

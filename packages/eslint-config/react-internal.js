@@ -20,6 +20,9 @@ module.exports = {
     React: true,
     JSX: true,
   },
+  rules: {
+    "no-unused-vars": 0,
+  },
   env: {
     browser: true,
   },
